@@ -9,3 +9,7 @@
 # (Optional) If you want to globally ignore any node_modules and any .env anywhere, you could also use:
 /**/node_modules/
 /**/.env
+
+
+/backend/README
+/frontend/README.md
